@@ -1,6 +1,6 @@
 G900I Omega Kernel LL Android 5.0
 
-Based on Samsung kernel sources EUR LL Update 1
+Based on Samsung kernel sources
 
 ****************************************************
 
